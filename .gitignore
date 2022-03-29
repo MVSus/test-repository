@@ -1,0 +1,7 @@
+# test git ignore file
+# this is comments
+__pycache__/
+docker-compose.yaml
+log/
+resources/products.json
+file.txt
